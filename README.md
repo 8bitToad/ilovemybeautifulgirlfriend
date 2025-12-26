@@ -1,6 +1,3 @@
-# ada.github.io
-website for my princess
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
